@@ -110,12 +110,5 @@ trainer = SFTTrainer(
 trainer.train()
 ```
 
-## 📜 License
-This project is licensed under the MIT License.
 
-## 🤝 Contributing
-Feel free to contribute by submitting issues or pull requests.
-
-## 📧 Contact
-For any queries, reach out via [your email or GitHub profile].
 
